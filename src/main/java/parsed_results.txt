@@ -1,0 +1,25 @@
+******************************SUITE=hvac_mode*******************************************************
+-------------------------------------PASSED TEST CASES-------------------------------------------------
+TestName: test_eco_1725, Time: 45.909, Status:pass
+TestName: test_eco_2621, Time: 8.556, Status:pass
+TestName: test_eco_2622, Time: 4.967, Status:pass
+TestName: test_eco_2623, Time: 6.719, Status:pass
+TestName: test_eco_2625, Time: 8.017, Status:pass
+TestName: test_eco_2626, Time: 8.774, Status:pass
+-------------------------------------FAILED TEST CASES--------------------------------------------------
+TestName: test_eco_2633, Time: 70.902, Status:fail
+TestName: test_eco_2645, Time: 9.383, Status:fail
+TestName: test_eco_2782, Time: 12.690, Status:fail
+-------------------------------------Total Blocked CASES------------------------------------------------
+2
+-------------------------------------TimeTakenGreaterThan10Sec------------------------------------------
+3
+******************************SUITE=temp_setting*******************************************************
+-------------------------------------PASSED TEST CASES-------------------------------------------------
+-------------------------------------FAILED TEST CASES--------------------------------------------------
+TestName: test_eco_2913, Time: 10.000, Status:fail
+TestName: test_eco_2915, Time: 5.890, Status:fail
+-------------------------------------Total Blocked CASES------------------------------------------------
+0
+-------------------------------------TimeTakenGreaterThan10Sec------------------------------------------
+0
